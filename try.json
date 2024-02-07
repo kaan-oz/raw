@@ -1,9 +1,7 @@
-
 {
-  "arus": "",
-  "https://github.com/kaan-oz": "",
-  "forever": "",
-  "https://r.resimlink.com/BUheDPuLj.png": "",
-  "https://twitter.com/khaanoz": ""
+  "name": "arus",
+  "website": "https://github.com/kaan-oz",
+  "description": "forever",
+  "logo": "https://r.resimlink.com/BUheDPuLj.png",
+  "twitter": "https://twitter.com/khaanoz"
 }
-
